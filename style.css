@@ -1,0 +1,33 @@
+.menu{
+    background-color: orange;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+ul, ol{
+    background-color: white;
+    color: black;    
+}
+a{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.page-title{
+    color: rgb(13, 161, 154);
+    padding: 12px;
+    text-align: center;
+    font-size: 80px;
+}
+.menu{
+    text-align: center;    
+    width: fit-content;
+    margin: 0 auto;
+}
+.home{
+    color: brown;
+    font-weight: bold;
+    margin: 12px auto;
+    text-align: center;
+    padding: 12px;
+}
